@@ -1,5 +1,5 @@
 # build setup
 
-Captured 2026-04-27.
+Captured 2026-06-01.
 
-Context: the warning had been there for months unnoticed.
+Context: the version pin drifted from the lockfile.
