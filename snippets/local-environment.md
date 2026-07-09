@@ -1,5 +1,5 @@
 # local environment
 
-Captured 2025-12-09.
+Captured 2026-07-09.
 
-Context: the flaky test depended on execution order.
+Context: the slow step was setup, not the work itself.
