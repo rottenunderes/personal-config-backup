@@ -1,5 +1,5 @@
 # release process
 
-Captured 2026-07-01.
+Captured 2026-09-23.
 
-Context: the slow step was setup, not the work itself.
+Context: the failure only reproduced with a cold cache.
